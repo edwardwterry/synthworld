@@ -9,6 +9,9 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^1.19.3",
+    "jquery": "^1.10.0",
+    "aframe": "^1.0.4",
+    "tone": "^13.0.1",
     "express": "^4.16.4"
   },
   "description": ""
